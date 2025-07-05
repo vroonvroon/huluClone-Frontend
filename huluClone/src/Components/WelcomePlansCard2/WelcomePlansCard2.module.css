@@ -1,0 +1,212 @@
+.plans {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 245px;
+    padding-inline: 2px;
+    padding-block: 10px;
+}
+
+.delicatePlans {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-block: 30px;
+    padding-inline: 8px;
+}
+
+.pill {
+    background-color: #00ED82;
+    border-radius: 50px;
+    padding: 5px 10px;
+    color: black;
+    font-size: 10px;
+    font-weight: 600;
+    letter-spacing: 1.5px;
+    visibility: visible;
+}
+
+.nopill {
+    visibility: hidden;
+}
+
+.delicatenopill {
+    display: none;
+}
+
+.plansHeading {
+    color: white;
+    font-size: 10px; 
+    font-weight: 700; 
+    letter-spacing: 0.9px;
+    padding-top: 24px;
+}
+
+.plansSubheading {
+    font-size: 13px; 
+}
+
+.PriceButton {
+    height: 54px;
+    font-size: 16px;
+    font-weight: 700;
+    background-color: white;
+    margin-top: 14px;
+    transition: 0.2s;
+    border: none;
+    border-radius: 5px;
+}
+
+.planText {
+    font-size: 19px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.delicateplanText {
+    font-size: 18px;
+    font-weight: 500;
+    text-align: center;
+    width: 120px;
+    line-height: normal;
+}
+
+.planLogo {
+    width: 180px;
+    height: 42px;
+}
+
+
+.delicateplanLogo {
+    width: 150px;
+    height: 30px;
+    margin-top: 10px;
+}
+
+.PriceButton {
+    height: 54px;
+    width: 100%;
+    font-size: 15px;
+}
+
+.FX2PriceButton {
+    width: 200px;
+    font-size: 15px;
+    height: 54px;
+    font-size: 16px;
+    font-weight: 700;
+    background-color: black;
+    color: #fff;
+    margin-top: 14px;
+    transition: 0.2s;
+    border: none;
+    border-radius: 5px;
+}
+
+.delicate2PriceButton {
+    height: 48px;
+    width: 100%;
+    font-size: 15px;
+    font-weight: 600;
+    background-color: black;
+    color: #fff;
+    margin-top: 14px;
+    transition: 0.2s;
+    border: none;
+    border-radius: 5px;
+    padding-inline: 50px;
+    line-height: 1;
+}
+
+.planText {
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.popularPlan {
+    background-color: #f5f6f7;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-block: 30px;
+    padding-inline: 8px;
+}
+
+
+
+@media (min-width: 1024px) and (max-width: 1439px) {
+
+    .plans {
+        width: 100%;
+        text-align: center;
+        padding-inline: 7px;
+        width: 220px;
+    }
+
+    .PriceButton {
+        height: 54px;
+        width: 200px;
+    }
+
+    .planText {
+        font-size: 16px;
+        font-weight: 500;
+    }
+
+    
+
+}
+
+
+@media (min-width: 768px) and (max-width: 1023px) {
+
+    .plans {
+        width: 100%;
+        text-align: center;
+        padding: 0px 10px;
+        border-inline-end: 1px solid rgb(89, 89, 89);
+        padding-block: 30px;
+    }
+
+    .PriceButton {
+        height: 54px;
+        font-size: 14px;
+        width: 100%;
+    }
+
+    .planText {
+        font-size: 16px;
+        font-weight: 500;
+    }
+
+    .planLogo {
+        width: 140px;
+        height: 35px
+    }
+
+}
+
+@media (min-width: 320px) and (max-width: 767px) {
+    
+    .plans {
+        width: 100vw;
+        text-align: center;
+    }
+
+    .PriceButton {
+        height: 54px;
+        font-size: 14px;
+        width: 100%;
+    }
+
+    .planText {
+        font-size: 16px;
+        font-weight: 500;
+    }
+
+    .planLogo {
+        width: 70px;
+        height: 20px;
+    }
+    
+}

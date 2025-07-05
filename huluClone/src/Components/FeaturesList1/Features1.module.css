@@ -1,0 +1,515 @@
+.featuresFlex {
+    display: flex;
+    padding-block: 20px;
+    border-bottom: 0.2px solid rgba(200, 200, 200, 0.4);
+    align-items: center;
+}
+
+.features2Flex {
+    display: flex;
+    padding-block: 20px;
+    border-bottom: 0.2px solid rgba(200, 200, 200, 0.4);
+    align-items: center;
+}
+
+.delicatefeatures2Flex {
+    display: flex;
+    border-bottom: 0.2px solid rgba(200, 200, 200, 0.4);
+    align-items: center;
+}
+
+.featuresFlex2,
+.featuresFlex3 {
+    padding-block: 20px;
+    border-bottom: 0.2px solid rgba(200, 200, 200, 0.4);
+}
+
+.checkMarks {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    align-items: center;
+    text-align: center;
+}
+
+.checkContainer {
+    width: 220px;
+}
+
+.checkContainer3 {
+    width: 220px;
+}
+
+.check2Container {
+    width: 50%;
+    padding-block: 20px;
+}
+
+.check2Marks > :nth-child(2) {
+    background-color: #f5f6f7;
+}
+
+.moreInfo4 p {
+    margin: 0px;
+    color: white;
+    font-size: 10px;
+}
+
+.moreInfo4_2 p {
+    margin: 0px;
+    color: black;
+    font-size: 10px;
+}
+ 
+.moreInfo42 {
+    text-align: left;
+    padding: 10px 8px 30px 8px;
+    letter-spacing: 0.5px;
+    line-height: 15px;
+}
+
+.moreInfo42 p {
+    font-size: 10px;    
+}
+
+.featuresFlex {
+    display: flex;
+    border-bottom: 0.2px solid rgba(200, 200, 200, 0.4);
+    align-items: center;
+}
+
+.featuresFlex2,
+.featuresFlex3 {
+    padding-block: 20px;
+    border-bottom: 0.2px solid rgba(200, 200, 200, 0.4);
+}
+
+.featureName2_checkMarksGrp {
+    display: flex;
+}
+
+.featureName_checkMarksGrp {
+    display: flex;
+    padding-block: 20px;
+    border-bottom: 1px solid rgba(211, 211, 211, 0.4);
+}
+
+.checkMarks {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.featureName_checkMarksGrp3 {
+    display: flex;
+}
+
+.checkMarks2 {
+    display: flex;
+    text-align: center;
+    justify-content: space-evenly;
+    width: 100%;
+}
+
+.greenCheck {
+     flex: 1 1 0;
+}
+
+.exceptionText {
+   font-size: 16px;
+}
+
+.featuresTitles1 {
+    width: 550px;
+    font-size: 16px;
+}
+
+.delicatefeaturesTitles {
+    width: 370px;
+    font-size: 16px;
+}
+
+.featuresTitles2 {
+    width: 520px;
+    font-size: 16px;
+}
+
+.featuresTitles3 {
+    width: 550px;
+    font-size: 16px;
+}
+
+.checkContainer > p {
+    font-size: 16px;
+}
+
+.delicateTitle {
+    width: 380px;
+    font-size: 16px;
+}
+
+.features2Titles,
+.features2Titles2,
+.features2Titles3 {
+    width: 380px;
+}
+
+.featureName_checkMarksGrp2 {
+    display: flex;
+    align-items: center;
+}
+
+.FXcheckMarks {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    align-items: center;
+    text-align: center;
+}
+
+.FX2checkMarks {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    align-items: center;
+    text-align: center;
+    margin-left: 30px;
+}
+
+.delicatefeaturesFlex {
+    display: flex;
+    border-bottom: 0.2px solid rgba(200, 200, 200, 0.4);
+    align-items: center;
+}
+
+.delicatefeaturesFlex2 {
+    display: flex;
+    border-bottom: 0.2px solid rgba(200, 200, 200, 0.4);
+    align-items: center;
+}
+
+.delicatecheckMarks {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    align-items: center;
+    text-align: center;
+}
+
+.delicatecheckContainer {
+    background-color: #f5f6f7;
+    width: 100%;
+    padding-block: 20px;
+}
+
+.notpopularcheckContainer {
+    width: 100%;
+}
+
+
+
+@media (min-width: 1024px) and (max-width: 1439px) {
+     
+    .featuresFlex {
+        display: flex;
+        padding-block: 20px;
+        border-bottom: 0.2px solid rgba(200, 200, 200, 0.4);
+        align-items: center;
+    }
+    
+    .featuresFlex2,
+    .featuresFlex3 {
+        padding-block: 20px;
+        border-bottom: 0.2px solid rgba(200, 200, 200, 0.4);
+    }
+
+    .featureName_checkMarksGrp {
+        display: flex;
+        padding-block: 20px;
+        border-bottom: 1px solid rgba(211, 211, 211, 0.4);
+    }
+
+    .checkMarks {
+        width: 100%;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+    }
+
+    .checkMarks2 {
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+    }
+
+    .greenCheck {
+         flex: 1 1 0;
+    }
+
+    .featuresTitles1 {
+        font-size: 14.7px;
+        width: 450px;
+        margin-inline: auto;
+        text-align: left;
+    }
+
+    .featuresTitles3 {
+        font-size: 14.7px;
+        width: 450px;
+        margin-inline: auto;
+        text-align: left;
+    }
+
+    .featureName_checkMarksGrp2 {
+        display: flex;
+    }
+
+    .priceText {
+        line-height: normal;
+        text-align: center;
+    }
+
+    .checkContainer {
+        font-size: 14px;
+        text-align: center;
+    }
+
+    .featureName_checkMarksGrp3 {
+        display: flex;
+        align-items: center;
+    }
+    
+
+}
+
+
+@media (min-width: 768px) and (max-width: 1023px) {
+
+    .featuresFlex {
+        display: block;
+        justify-content: center;
+        padding-top: 10px;
+        padding-bottom: 20px;
+    }
+
+    .featuresTitles {
+        text-align: center;
+        width: 100%;
+        padding-bottom: 10px;
+        font-size: 14px;
+    }
+
+    .exceptionText {
+        font-size: 14px;
+        text-align: center;
+    }
+    
+    .checkContainer > p {
+        font-size: 14px;
+    }
+
+    .checkMarks {
+        width: 100%;
+        display: flex;
+    }
+
+    .checkMarks2 {
+        width: 100%;
+        display: flex;
+        padding-block: 20px;
+    }
+
+    .checkContainer3 {
+        width: 100%;
+        padding-inline: 70px;
+    }
+
+    .checkContainer {
+        width: 50% !important;
+        height: 21px;
+    }
+
+
+    .featureName_checkMarksGrp {
+        display: block;
+        width: 100%;
+        text-align: center;
+        padding-block: 20px;
+        border-bottom: 0.2px solid rgba(200, 200, 200, 0.4)
+    }
+
+    .featuresFlex2 {
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+        justify-content: center;
+        text-align: center;
+        padding-top: 10px;
+        padding-bottom: 20px;
+    }
+
+    .featuresFlex3 {
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+        justify-content: center;
+        text-align: center;
+        padding-top: 10px;
+        padding-bottom: 20px;
+    }
+
+    .featureName_checkMarksGrp2 {
+        display: block;
+    }
+
+    .featureName_checkMarksGrp3 {
+        display: block;
+    }
+
+    .featuresTitles1 {
+        font-size: 14px;
+        width: 100%;
+        padding-bottom: 10px;
+    }
+
+    .featuresTitles2 {
+        font-size: 14px;
+        margin-inline: auto;
+        text-align: center;
+        padding-bottom: 10px;
+    }
+
+    .featuresTitles3 {
+        font-size: 14px;
+        margin-inline: auto;
+        text-align: center;
+        padding-bottom: 10px;
+    }
+
+    .moreInfo4,
+    .moreInfo42,
+    .moreInfo43 {
+        text-align: center;
+    }
+
+    .moreInfo4 > p,
+    .moreInfo42 > p,
+    .moreInfo43 > p {
+       font-size: 10px;
+    }
+}
+  
+
+@media (min-width: 320px) and (max-width: 767px) {
+
+.featuresFlex {
+    padding-block: 0px;
+    justify-content: center;
+}
+
+.checkMarks {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+}
+
+.checkMarks2 {
+    width: 100%;
+    display: flex;
+    padding-block: 20px;
+}
+
+.checkContainer {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.priceText {
+    width: 100%;
+    text-align: center;
+}
+
+.checkContainer > p {
+    font-size: 14px;
+}
+
+.checkContainer3 > p {
+    font-size: 14px;
+}
+
+.featureName_checkMarksGrp {
+    padding: 14px 0px;
+    width: 100%;
+    display: block;
+    border-bottom: 1px solid rgba(211, 211, 211, 0.4);
+}
+
+.featureName_checkMarksGrp3 {
+    display: block;
+    align-items: center;
+}
+
+.featuresTitles1 {
+    font-size: 14.7px;
+    width: 100%;
+    margin-inline: auto;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.featuresTitles2 {
+    font-size: 14.7px;
+    width: 100%;
+    margin-inline: auto;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.featuresTitles3 {
+    font-size: 14.7px;
+    width: 100%;
+    margin-inline: auto;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.greenCheck {
+    height: 10px;
+}
+
+.moreInfo4 p {
+    font-size: 9px;
+    text-align: center;
+}
+
+.featuresFlex2,
+.featuresFlex3 {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    justify-content: center;
+    text-align: center;
+}
+
+.moreInfo42 {
+    text-align: center;
+}
+
+.featureName_checkMarksGrp2 {
+    display: block;
+}
+
+.featuresTitles3 {
+    width: auto;
+}
+
+.moreInfo43 p{
+    font-size: 9px;
+    text-align: center;
+}
+}

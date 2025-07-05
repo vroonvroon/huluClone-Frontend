@@ -1,0 +1,132 @@
+.optionsFlex {
+    display: flex;
+    padding-block: 20px;
+    border-bottom: 0.2px solid rgba(200, 200, 200, 0.4);
+    transition: all .5s ease;
+    width: 100%;
+    text-align: center;
+}
+
+.addOnIndicators{
+    display: flex;
+    width: 100%;
+} 
+
+.AddOnDataTitle {
+    width: 550px;
+    text-align: left;
+}
+
+.delicateAddOnDataTitle {
+    min-width: 380px;
+    text-align: left;
+}
+
+.AddOnDataCheckMarks {
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    text-align: left;
+}
+
+.AddOnDataCheckMarks2 {
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    text-align: left;
+}
+
+
+@media (min-width: 1024px) and (max-width: 1439px) {
+
+    .optionsFlex {
+        display: flex;
+        padding-block: 20px;
+        border-bottom: 0.2px solid rgba(200, 200, 200, 0.4);
+        transition: all .5s ease;
+        width: 100%;
+        text-align: center;
+        gap: 10px;
+    }
+
+    .AddOnDataTitle {
+         width: 450px;
+         text-align: left;
+    }
+
+    .AddOnDataCheckMarks {
+         display: flex;
+         width: 100%;
+         justify-content: space-around;
+         text-align: left;
+    }
+    
+    .AddOnDataCheckMarks2 {
+        display: flex;
+        width: 100%;
+        justify-content: space-around;
+        text-align: left;
+    }
+}
+
+
+@media (min-width: 768px) and (max-width: 1023px) {
+
+    .optionsFlex {
+        display: flex;
+        flex-direction: column;
+        padding-block: 20px;
+        border-bottom: 0.2px solid rgba(200, 200, 200, 0.4);
+        transition: all .5s ease;
+        width: 100%;
+        text-align: center;
+        gap: 10px;
+    }
+
+    .AddOnDataTitle {
+        width: 100%;
+        text-align: center;
+    }
+
+    .AddOnDataCheckMarks {
+        width: 100%;
+        justify-content: space-evenly;
+        text-align: center
+    }
+
+    .AddOnDataCheckMarks2 {
+        display: flex;
+        width: 100%;
+        justify-content: space-evenly;
+        text-align: center
+    }
+}
+
+
+
+@media (min-width: 320px) and (max-width: 767px) {
+
+    .optionsFlex {
+        display: flex;
+        flex-direction: column;
+        padding-block: 20px;
+        border-bottom: 0.2px solid rgba(200, 200, 200, 0.4);
+        transition: all .5s ease;
+        width: 100%;
+        text-align: center;
+        gap: 10px;
+    }
+
+    .AddOnDataTitle {
+        width: 100%;
+        text-align: center;
+    }
+
+    .greenCheck {
+        height: 10px;
+    }
+
+}
+
+
+

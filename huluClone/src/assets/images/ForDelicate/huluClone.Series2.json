@@ -1,0 +1,90 @@
+[{
+  "_id": {
+    "$oid": "66a3a9ad9a1b3353f5649e41"
+  },
+  "episode": "EPISODE 1",
+  "title": "Cape Fear",
+  "desc": "A struggling writer, his pregnant wife, and their daughter move to an isolated beach town for the winter. Once they're settled in, the town’s true residents begin to make themselves known.",
+  "img": "https://img.hulu.com/user/v3/artwork/92c4d361-4900-4a04-a212-52da71446087?base_image_bucket_name=image_manager&base_image=0ae44931-9dc9-468f-8796-b97c0afc4d4c&size=600x338&format=webp"
+},
+{
+  "_id": {
+    "$oid": "66a3a9ad9a1b3353f5649e42"
+  },
+  "episode": "EPISODE 2",
+  "title": "Pale",
+  "desc": "A quick fix for Harry’s writer’s block has unexpected side effects. Two eccentric locals offer Harry a helping hand.",
+  "img": "https://img4.hulu.com/user/v3/artwork/60285815-db7f-464b-bfdf-c8bfbcf01059?base_image_bucket_name=image_manager&base_image=c1377a5e-8379-41ba-bdb5-9be586d79980&size=600x338&format=webp"
+},
+{
+  "_id": {
+    "$oid": "66a3a9ad9a1b3353f5649e43"
+  },
+  "episode": "EPISODE 3",
+  "title": "Thirst",
+  "desc": "A quick fix for Harry’s writer’s block has unexpected side effects. Two eccentric locals offer Harry a helping hand.",
+  "img": "https://img4.hulu.com/user/v3/artwork/298c4083-79ad-46d3-b254-86ca3f035286?base_image_bucket_name=image_manager&base_image=7eeccfc8-d856-4f57-875c-c56cf176fb03&size=600x338&format=webp"
+},
+{
+  "_id": {
+    "$oid": "66a3a9ad9a1b3353f5649e44"
+  },
+  "episode": "EPISODE 4",
+  "title": "Blood Buffet",
+  "desc": "The dark history of Provincetown and its residents are brought to light.",
+  "img": "https://img4.hulu.com/user/v3/artwork/3468ae16-c856-4b6e-8abb-aae9aeaa1a63?base_image_bucket_name=image_manager&base_image=5303b985-718e-434c-b1c4-b4d8a0375724&size=600x338&format=webp"
+},
+{
+  "_id": {
+    "$oid": "66a3a9ad9a1b3353f5649e45"
+  },
+  "episode": "EPISODE 5",
+  "title": "Gaslight",
+  "desc": "Harry struggles to keep Alma under control. Doris is pushed past her limits.",
+  "img": "https://img.hulu.com/user/v3/artwork/3971fe6c-9eaa-4501-9d19-e86ba1f53286?base_image_bucket_name=image_manager&base_image=5250c8c6-59b3-4e6f-a36a-32433aa13869&size=600x338&format=webp"
+},
+{
+  "_id": {
+    "$oid": "66a3a9ad9a1b3353f5649e46"
+  },
+  "episode": "EPISODE 6",
+  "title": "Winter Kills",
+  "desc": "Ursula devises a sinister plan. The Gardners write their final act.",
+  "img": "https://img1.hulu.com/user/v3/artwork/f5a9bdbd-c2cd-4a97-8176-2dd45069c3d1?base_image_bucket_name=image_manager&base_image=77ca155d-d8e5-43db-9376-43332187c550&size=600x338&format=webp"
+},
+{
+  "_id": {
+    "$oid": "66a3a9ad9a1b3353f5649e47"
+  },
+  "episode": "EPISODE 7",
+  "title": "Take Me to Your Leader",
+  "desc": "A group of college students on a camping trip are swept up in a horrifying and deadly conspiracy decades in the making.",
+  "img": "https://img2.hulu.com/user/v3/artwork/2423b8c8-64b2-4c97-865f-2d155da4fd4f?base_image_bucket_name=image_manager&base_image=b4fedc33-347c-4cbf-971c-367fbca36397&size=600x338&format=webp"
+},
+{
+  "_id": {
+    "$oid": "66a3a9ad9a1b3353f5649e48"
+  },
+  "episode": "EPISODE 8",
+  "title": "Inside",
+  "desc": "The President struggles with the morality of a deal he must make.",
+  "img": "https://img2.hulu.com/user/v3/artwork/24b2a60e-5710-41b9-99a2-7935859f1699?base_image_bucket_name=image_manager&base_image=862b33f2-7237-4e65-86ed-44c8738d9820&size=600x338&format=webp"
+},
+{
+  "_id": {
+    "$oid": "66a3a9ad9a1b3353f5649e49"
+  },
+  "episode": "EPISODE 9",
+  "title": "Blue Moon",
+  "desc": "An unexpected visitor arrives at the White House and reveals the details of the horrific plan.",
+  "img": "https://img1.hulu.com/user/v3/artwork/fe7f8b1d-91fc-48b6-9729-06e5c40c79ab?base_image_bucket_name=image_manager&base_image=1b13a6b5-a947-4d4b-8c8d-5fc426d777ec&size=600x338&format=webp"
+},
+{
+  "_id": {
+    "$oid": "66a3a9ad9a1b3353f5649e4a"
+  },
+  "episode": "EPISODE 10",
+  "title": "The Future Perfect",
+  "desc": "Mamie takes matters into her own hands. The fate of the future is revealed.",
+  "img": "https://img1.hulu.com/user/v3/artwork/8929a187-c838-40e3-8281-b954e212884b?base_image_bucket_name=image_manager&base_image=cf5c593a-ddd3-40cc-bb82-82ec1bde5cd9&size=600x338&format=webp"
+}]
